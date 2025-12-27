@@ -75,6 +75,6 @@ It serves as a strong foundation for understanding relational databases and SQL-
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Akansha Kashyap**
 
